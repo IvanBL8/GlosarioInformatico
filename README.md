@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src=![imagen](img/iso.gif)
- alt="Descripción de la imagen">
+ alt=![imagen](img/iso.gif)
+>
 </p>
 
 

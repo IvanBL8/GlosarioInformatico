@@ -1,7 +1,10 @@
 # Glosario Informatico
 
+<p align="center">
+  <img src=![imagen](img/iso.gif)
+ alt="Descripción de la imagen">
+</p>
 
-![imagen](img/iso.gif)
 
 
 

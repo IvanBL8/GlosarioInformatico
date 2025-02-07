@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="([img]img/iso.gif)" alt="Descripción de la imagen">
+  <img src="/img/iso.gif" alt="![economia](/img/iso.gif)"/>
 </p>
 
 

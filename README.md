@@ -1,7 +1,7 @@
 # Glosario Informatico
 
 
-![imagen](img/)
+![imagen](img/iso.gif)
 
 
 

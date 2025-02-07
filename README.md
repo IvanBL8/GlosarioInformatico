@@ -1,6 +1,10 @@
 # Glosario Informatico
 
 
+![imagen](img/)
+
+
+
 **1) IP**
 
 

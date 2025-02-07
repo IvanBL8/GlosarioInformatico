@@ -25,7 +25,7 @@ Es el nombre fácil de recordar que apunta a una IP.
 Es la dirección completa de una página web o recurso en Internet.
 
  
- Ejemplo: https://www.iesrodrogocaro.org/blog/articulo
+ Ejemplo: "https://www.iesrodrogocaro.org/blog/articulo"
 
 **4.) Puerto**
 
